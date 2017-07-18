@@ -1,0 +1,40 @@
+{{ partial "header.html" . }}
+{{ partial "navbar.html" . }}
+
+{{ partial "header_image.html" . }}
+
+<div class="universal-wrapper">
+
+  <h1>{{ .Title | default (i18n "posts") }}</h1>
+
+  {{ with .Content }}
+  <div class="article-style" itemprop="articleBody">{{ . }}</div>
+  {{ end }}
+
+  {{ $paginator := .Paginate .Data.Pages }}
+  {{ range $paginator.Pages }}
+  <div>
+    {{ if .Params.image }}
+    <a href="{{ .Permalink }}">
+      <img src="{{ $.Site.BaseURL }}img/{{ .Params.image }}" class="article-banner">
+    </a>
+    {{end}}
+    <h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
+    {{ partial "article_metadata" (dict "content" . "is_list" 1) }}
+    <div class="article-style"><p>
+      {{ if .Params.summary }}
+      {{ printf "%s" .Params.summary | markdownify }}
+      {{ else if .Truncated }}
+      {{ printf "%s" .Summary | markdownify }}
+      {{ else }}
+      {{ .Content }}
+      {{ end }}
+    </p></div>
+  </div>
+  {{ end }}
+
+  {{ partial "pagination" . }}
+
+</div>
+{{ partial "footer_container.html" . }}
+{{ partial "footer.html" . }}
