@@ -1,0 +1,30 @@
++++
+date = "2017-07-17T12:00:00"
+draft = false
+tags = ["academic", "hugo", "teste"]
+title = "Fazendo um teste"
+math = true
+summary = """
+Um exemplo de Rmd com Hugo.
+"""
+
++++
+
+```{r setup, include=FALSE}
+source("../../setup_knitr.R")
+```
+
+Algum texto aqui.
+
+Um código:
+
+```{r}
+x <- rnorm(10)
+x
+```
+
+E um gráfico aqui:
+
+```{r histo}
+hist(x)
+```
