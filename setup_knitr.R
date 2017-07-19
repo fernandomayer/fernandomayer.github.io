@@ -9,6 +9,6 @@ knitr::opts_chunk$set(
     fig.align = "center",
     ## dpi = 80, ## aumentar o dpi para exibir maior.
     ## dev = "png",
-    fig.path = "static/img/",
+    fig.path = "static/figure/",
     cache.path = "cache/"
     )

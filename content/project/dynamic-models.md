@@ -21,6 +21,18 @@ external_link = ""
 # Does the project detail page use math formatting?
 math = false
 
+# Optional featured image (relative to `static/img/` folder).
+[header]
+image = ""
+caption = ""
+
 +++
 
-Descrição do projeto.
+Non-linear state-space models for biomass dynamic models of fisheries
+  stocks. *Ph.D project*, ESALQ/USP.
+  Advisor: [Paulo Justiniano Ribeiro Jr.][1] (LEG/UFPR)
+  e [Paul Gerhard Kinas][2] (LEA/FURG).
+
+
+[1]: http://www.leg.ufpr.br/~paulojus/
+[2]: https://sites.google.com/site/materialdokinas/

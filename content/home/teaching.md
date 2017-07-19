@@ -14,14 +14,7 @@ weight = 60
 
 +++
 
-This is an example of using the *custom* widget to create your own homepage section.
+Current courses:
 
-I am a teaching instructor for the following courses at University X:
-
-- CS101: An intro to computer science
-- CS102: An intro to computer science
-- CS103: An intro to computer science
-- CS104: An intro to computer science
-- CS105: An intro to computer science
-- CS106: An intro to computer science
-- CS107: An intro to computer science
+- CE083: Estatística computacional I
+- CE074: Controle de processos industriais
