@@ -8,10 +8,10 @@ footnotereturnlinkcontents = "<sup>^</sup>"
 ignoreFiles = ["\\.R$", "\\.Rmd$", "\\.sh", "_files$", "_cache$"]
 
 # Enable comments by entering your Disqus shortname
-disqusShortname = ""
+disqusShortname = "tiofernandomayer.disqus.com"
 
 # Enable analytics by entering your Google Analytics tracking ID
-googleAnalytics = ""
+googleAnalytics = "UA-102804671-1"
 
 # Default language to use (if you setup multilingual support)
 defaultContentLanguage = "en"
