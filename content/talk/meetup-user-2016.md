@@ -11,8 +11,8 @@ selected = false
 math = true
 
 url_pdf = ""
-url_slides = ""
-url_video = ""
+url_slides = "http://www.leg.ufpr.br/~fernandomayer/palestra/useR-2016/PesqRep_Rmarkdown.html"
+url_video = "https://youtu.be/UCzHmqVY0gA"
 
 # Optional featured image (relative to `static/img/` folder).
 [header]
@@ -20,6 +20,8 @@ image = ""
 caption = ""
 
 +++
+
+Apresentação disponível [aqui](http://www.leg.ufpr.br/~fernandomayer/palestra/useR-2016/PesqRep_Rmarkdown.html).
 
 Código fonte da apresentação disponível no [Github](https://github.com/fernandomayer/Rmarkdown-rautu).
 
