@@ -7,7 +7,7 @@ copyright = "&copy; 2017 Fernando de Pol Mayer"
 theme = "academic"
 enableEmoji = true
 footnotereturnlinkcontents = "<sup>^</sup>"
-ignoreFiles = ["\\.R$", "\\.Rmd$", "\\.sh", "_files$", "_cache$"]
+ignoreFiles = ["\\.R$", "\\.Rmd$", "\\.sh$", "\\.txt$", "_files$", "_cache$"]
 
 # Enable comments by entering your Disqus shortname
 disqusShortname = "tiofernandomayer"
