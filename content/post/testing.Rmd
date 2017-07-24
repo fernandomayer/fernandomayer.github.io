@@ -11,7 +11,7 @@ A simple blog post for testing Hugo with knitr.
 +++
 
 ```{r setup, include=FALSE}
-source("../../setup_knitr.R")
+knitr::opts_chunk$set(fig.path = "static/img/")
 ```
 
 Here we will write some text and below a very silly random number
@@ -21,6 +21,10 @@ generation:
 x <- rnorm(10)
 x
 ```
+
+A local figure:
+
+![](/img/icon.png)
 
 And this would be a silly histogram:
 

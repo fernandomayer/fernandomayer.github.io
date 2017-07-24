@@ -22,9 +22,13 @@ x
 ```
 
 ```
- [1] -1.3624093 -0.6788517  0.8232959 -0.1304526  1.3955315  0.9826700
- [7]  0.7147739  0.8708800  1.9975982 -0.5410510
+##  [1] -0.09493661  0.79973631  1.35726316  0.79571866  0.31990204
+##  [6]  0.06637747 -0.65336687  1.47621587 -0.70674931 -0.69989223
 ```
+
+A local figure:
+
+![](/img/icon.png)
 
 And this would be a silly histogram:
 
@@ -33,4 +37,4 @@ And this would be a silly histogram:
 hist(x)
 ```
 
-<img src="static/figure/histo-1.png" title="plot of chunk histo" alt="plot of chunk histo" style="display: block; margin: auto;" />
+![plot of chunk histo](static/img/histo-1.png)

@@ -1,5 +1,7 @@
 baseurl = "http://www.leg.ufpr.br/~fernandomayer/"  # End your URL with a `/` trailing slash.
 publishDir = "docs"
+canonifyURLs = "true"
+relativeURLs = "true"
 title = "Fernando Mayer"
 copyright = "&copy; 2017 Fernando de Pol Mayer"
 theme = "academic"
