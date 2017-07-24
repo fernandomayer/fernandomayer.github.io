@@ -1,4 +1,4 @@
 aulas/
 dados/
 ensino/
-palestras/
+palestra/
