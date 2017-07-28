@@ -18,8 +18,8 @@ weight = 60
 
 | Código | Disciplina      | Curso            | Turma | Ano  | Semestre |
 |:-------|:----------------|:-----------------|:-----:|:----:|:--------:|
-| CE-083 | Estatística Computacional I | Estatística | [EST][9] | 2016 | 2 |
-| CE-074 | Controle de Processos Industriais | Estatística | [EST][8] | 2015 | 2 |
+| CE-083 | Estatística Computacional I | Estatística | [EST][9] | 2017 | 2 |
+| CE-074 | Controle de Processos Industriais | Estatística | [EST][8] | 2017 | 2 |
 
 ## Past courses
 
