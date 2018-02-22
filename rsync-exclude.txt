@@ -2,3 +2,4 @@ aulas/
 data/
 ensino/
 palestra/
+pesqrep/
