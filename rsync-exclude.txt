@@ -1,4 +1,4 @@
 aulas/
-dados/
+data/
 ensino/
 palestra/
