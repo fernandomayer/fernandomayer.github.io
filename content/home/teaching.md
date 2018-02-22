@@ -16,22 +16,24 @@ weight = 60
 
 ## Current courses:
 
-| Código | Disciplina      | Curso            | Turma | Ano  | Semestre |
-|:-------|:----------------|:-----------------|:-----:|:----:|:--------:|
-| CE-083 | Estatística Computacional I | Estatística | [EST][9] | 2017 | 2 |
-| CE-074 | Controle de Processos Industriais | Estatística | [EST][8] | 2017 | 2 |
+| Código   | Disciplina        | Curso                                 | Turma    |    Ano |   Semestre |
+| :------- | :---------------- | :-----------------                    | :-----:  | :----: | :--------: |
+| CE-001   | Bioestatística    | Biologia (N)                          | [N][10]  |   2018 |          1 |
+| CE-003   | Estatística II    | Engenharia Industrial Madeireira (MN) | [MN][10] |   2018 |          1 |
 
 ## Past courses
 
-| Código | Disciplina      | Curso            | Turma | Ano  | Semestre |
-|:-------|:----------------|:-----------------|:-----:|:----:|:--------:|
-| CE-082 | Seminários | Estatística | [EST][7] | 2016 | 2 |
-| CE-083 | Estatística Computacional I | Estatística | [EST][6] | 2016 | 2 |
-| CE-001 | Bioestatística | Enfermagem | [E][5] | 2016 | 2 |
-| CE-003 | Estatística II | Eng. de Bioproc. (F) e Mat. Ind. (MI) | [FMI][4] | 2016 | 1 |
-| CE-001 | Bioestatística | Biologia (N) | [N][3] | 2016 | 1 |
-| CE-083 | Estatística Computacional I | Estatística | [EST][2] | 2015 | 2 |
-| CE-074 | Controle de Processos Industriais | Estatística | [EST][1] | 2015 | 2 |
+| Código   | Disciplina                        | Curso                                 | Turma    |    Ano |   Semestre |
+| :------- | :----------------                 | :-----------------                    | :-----:  | :----: | :--------: |
+| CE-083   | Estatística Computacional I       | Estatística                           | [EST][9] |   2017 |          2 |
+| CE-074   | Controle de Processos Industriais | Estatística                           | [EST][8] |   2017 |          2 |
+| CE-082   | Seminários                        | Estatística                           | [EST][7] |   2016 |          2 |
+| CE-083   | Estatística Computacional I       | Estatística                           | [EST][6] |   2016 |          2 |
+| CE-001   | Bioestatística                    | Enfermagem                            | [E][5]   |   2016 |          2 |
+| CE-003   | Estatística II                    | Eng. de Bioproc. (F) e Mat. Ind. (MI) | [FMI][4] |   2016 |          1 |
+| CE-001   | Bioestatística                    | Biologia (N)                          | [N][3]   |   2016 |          1 |
+| CE-083   | Estatística Computacional I       | Estatística                           | [EST][2] |   2015 |          2 |
+| CE-074   | Controle de Processos Industriais | Estatística                           | [EST][1] |   2015 |          2 |
 
 
 [1]: http://www.leg.ufpr.br/doku.php/disciplinas:ce074-2015-02
@@ -43,3 +45,4 @@ weight = 60
 [7]: http://leg.ufpr.br/~fernandomayer/aulas/ce082-2016-2/
 [8]: http://leg.ufpr.br/~fernandomayer/aulas/ce074
 [9]: http://leg.ufpr.br/~fernandomayer/aulas/ce083
+[10]: http://cursos.leg.ufpr.br/ce001
