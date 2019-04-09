@@ -16,15 +16,17 @@ weight = 60
 
 ## Current courses:
 
-| Código   | Disciplina        | Curso                                 | Turma    |    Ano |   Semestre |
-| :------- | :---------------- | :-----------------                    | :-----:  | :----: | :--------: |
-| CE-001   | Bioestatística    | Biologia (N)                          | [N][10]  |   2018 |          1 |
-| CE-003   | Estatística II    | Engenharia Industrial Madeireira (MN) | [MN][10] |   2018 |          1 |
+| Código   | Disciplina               | Curso                      | Turma     |    Ano |   Semestre |
+| :------- | :----------------        | :-----------------         | :-----:   | :----: | :--------: |
+| CE-009   | Introdução à Estatística | Engenharia Ambiental (AMB) | [AMB][11] |   2019 |          1 |
+| CE-091   | Métodos de Pesquisa      | Estatística                | [EST][12] |   2019 |          1 |
 
 ## Past courses
 
 | Código   | Disciplina                        | Curso                                 | Turma    |    Ano |   Semestre |
 | :------- | :----------------                 | :-----------------                    | :-----:  | :----: | :--------: |
+| CE-001   | Bioestatística                    | Biologia (N)                          | [N][10]  |   2018 |          1 |
+| CE-003   | Estatística II                    | Engenharia Industrial Madeireira (MN) | [MN][10] |   2018 |          1 |
 | CE-083   | Estatística Computacional I       | Estatística                           | [EST][9] |   2017 |          2 |
 | CE-074   | Controle de Processos Industriais | Estatística                           | [EST][8] |   2017 |          2 |
 | CE-082   | Seminários                        | Estatística                           | [EST][7] |   2016 |          2 |
@@ -46,3 +48,5 @@ weight = 60
 [8]: http://leg.ufpr.br/~fernandomayer/aulas/ce074
 [9]: http://leg.ufpr.br/~fernandomayer/aulas/ce083
 [10]: http://cursos.leg.ufpr.br/ce001
+[11]: http://cursos.leg.ufpr.br/estbas
+[12]: http://cursos.leg.ufpr.br/ce091
