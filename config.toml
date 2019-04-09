@@ -3,7 +3,7 @@ publishDir = "docs"
 canonifyURLs = "true"
 relativeURLs = "true"
 title = "Fernando Mayer"
-copyright = "&copy; 2017 Fernando de Pol Mayer"
+copyright = "&copy; 2019 Fernando de Pol Mayer"
 theme = "academic"
 enableEmoji = true
 footnotereturnlinkcontents = "<sup>^</sup>"
@@ -24,7 +24,7 @@ defaultContentLanguageInSubdir = false
 
 [params]
   name = "Fernando Mayer"
-  role = "Assistant Professor"
+  role = "Researcher and Lecturer"
   organization = "UFPR/DEST/LEG"
   organization_url = "www.leg.ufpr.br"
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)

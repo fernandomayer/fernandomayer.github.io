@@ -21,7 +21,7 @@ weight = 1
 [[education.courses]]
   course = "PhD in Statistics and Agricultural Experimentation"
   institution = "Universidade de São Paulo"
-  year = 2018
+  year = 2019
 
 [[education.courses]]
   course = "MSc in Ecology"
@@ -37,7 +37,7 @@ weight = 1
 
 # Biography
 
-I'm an Assistant Professor in the [Statistics Department][1] at the
+I'm a Researcher and Lecturer in the [Statistics Department][1] of the
 Federal University of Paraná ([UFPR][8]), Brazil. I'am a member of the
 Laboratory of Statistics and Geoinformation ([LEG][]), where I deal
 mainly with statistical spatial models applied to environmental and
@@ -45,11 +45,11 @@ ecological problems, specially those dealing with marine fisheries
 resources. I'm also a collaborator at the Laboratory of Environmental
 Statistics ([LEA][]) of Federal University of Rio Grande ([FURG][]).
 
-Originally, I have a bachelor degree in [Oceanography][3] from University
-of Vale do Itajaí ([UNIVALI][9]), with a master's degree in [Ecology][5]
-from Federal University of Santa Catarina ([UFSC][10]). Currently, I'am a
-Ph.D. candidate in [Statistics and Agricultural Experimentation][] at
-University of São Paulo ([USP][11]), Brazil.
+In 2019 I received a doctorate degree in [Statistics and Agricultural
+Experimentation][] from University of São Paulo ([USP][11]), Brazil.
+Originally, I have a bachelor degree in [Oceanography][3] from
+University of Vale do Itajaí ([UNIVALI][9]), with a master's degree in
+[Ecology][5] from Federal University of Santa Catarina ([UFSC][10]).
 
 [1]: http://www.est.ufpr.br/
 [2]: http://www.ufpr.br/
