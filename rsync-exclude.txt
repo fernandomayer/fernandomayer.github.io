@@ -5,3 +5,4 @@ palestra/
 pesqrep/
 rday/
 misc/
+tese/
