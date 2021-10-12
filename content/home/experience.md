@@ -24,37 +24,46 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: Researcher and Lecturer in Statistics
-    company: Universidade Federal do Paraná
-    company_url: ''
-    company_logo: org-gc
+    company: Universidade Federal do Paraná (UFPR)
+    company_url: 'https://www.ufpr.br/portalufpr/'
+    company_logo: ufpr-logo
     location: Curitiba, PR
     date_start: '2015-07-31'
     date_end: ''
     description: |2-
-        Responsibilities include:
+      Main disciplines taught:
 
-        * Analysing
-        * Modelling
-        * Deploying
+        * Computational Statistics I
+        * Computational Statistics II
+        * Methods in Scientific Research
 
   - title: Researcher and Lecturer in Statistics
-    company: Universidade Federal do Rio Grande
-    company_url: ''
-    company_logo: org-x
+    company: Universidade Federal do Rio Grande (FURG)
+    company_url: 'https://www.furg.br'
+    company_logo: furg-logo
+    # company_logo: preto-furg
     location: Rio Grande, RS
     date_start: '2014-01-31'
     date_end: '2015-07-30'
-    description: Taught electronic engineering and researched semiconductor physics.
+    description: |2-
+      Main disciplines taught:
+
+        * Introduction to Statistics
+        * Statistical Methods
 
   - title: Lecturer in Fisheries Science
-    company: Universidade Federal de Santa Catarina
-    company_url: ''
-    company_logo: org-x
+    company: Universidade Federal de Santa Catarina (UFSC)
+    company_url: 'http://ufsc.br'
+    # company_logo: brasao_UFSC
+    company_logo: ufsc-logo
     location: Florianópolis, SC
     date_start: '2011-07-31'
     date_end: '2013-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    description: |2-
+      Main disciplines taught:
 
+        * Fisheries Resources and Methods
+        * Population Ecology
 
 design:
   columns: '2'

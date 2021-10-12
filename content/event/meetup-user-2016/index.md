@@ -14,14 +14,14 @@ event: Meetup R users São Paulo
 event_url: https://www.meetup.com/pt-BR/useR-SP/
 featured: false
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
+  # caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
   focal_point: Right
 links:
 # - icon: twitter
 #   icon_pack: fab
 #   name: Follow
 #   url: https://twitter.com/georgecushen
-location: São Paulo, SP
+location: Online
 # projects:
 # - internal-project
 publishDate: "2015-09-18T00:00:00Z"
