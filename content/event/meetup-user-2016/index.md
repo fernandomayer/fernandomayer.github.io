@@ -6,10 +6,10 @@ abstract:
 #   # postcode: "94305"
 #   region: SP
 #   # street: 450 Serra Mall
-all_day: false
+all_day: true
 authors: []
-date: "2016-08-26T13:00:00Z"
-date_end: "2016-08-26T15:00:00Z"
+date: "2016-08-26"
+# date_end: "2016-08-26"
 event: Meetup R users São Paulo
 event_url: https://www.meetup.com/pt-BR/useR-SP/
 featured: false
