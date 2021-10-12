@@ -5,7 +5,7 @@ theme: "starter-hugo-academic"
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Fernando Mayer # Website name
-baseurl: 'https://academic-demo.netlify.app/' # Website URL
+baseurl: 'http://www.leg.ufpr.br/~fernandomayer/' # Website URL
 copyright: '' # Footer text, e.g. '© {year} Me'
 
 ############################

@@ -1,0 +1,8 @@
+aulas/
+data/
+ensino/
+palestra/
+pesqrep/
+rday/
+misc/
+tese/
