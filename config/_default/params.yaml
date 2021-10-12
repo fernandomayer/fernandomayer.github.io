@@ -146,7 +146,7 @@ search:
     show_logo: false
 map:
   provider: google
-  # api_key: ''
+  api_key: 'AIzaSyBhuo5JQeG2JeT0h5aSB7XcWCNWQYwW3PE'
   # zoom: 15
 marketing:
   google_analytics: 'UA-102804671-1'
