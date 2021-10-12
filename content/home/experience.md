@@ -2,12 +2,13 @@
 # An instance of the Experience widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: experience
+# active: false
 
 # This file represents a page section.
 headless: true
 
 # Order that this section appears on the page.
-weight: 40
+weight: 20
 
 title: Experience
 subtitle:
@@ -22,28 +23,38 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
+  - title: Researcher and Lecturer in Statistics
+    company: Universidade Federal do Paraná
     company_url: ''
     company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
+    location: Curitiba, PR
+    date_start: '2015-07-31'
     date_end: ''
     description: |2-
         Responsibilities include:
-        
+
         * Analysing
         * Modelling
         * Deploying
-        
-  - title: Professor of Semiconductor Physics
-    company: University X
+
+  - title: Researcher and Lecturer in Statistics
+    company: Universidade Federal do Rio Grande
     company_url: ''
     company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
+    location: Rio Grande, RS
+    date_start: '2014-01-31'
+    date_end: '2015-07-30'
     description: Taught electronic engineering and researched semiconductor physics.
+
+  - title: Lecturer in Fisheries Science
+    company: Universidade Federal de Santa Catarina
+    company_url: ''
+    company_logo: org-x
+    location: Florianópolis, SC
+    date_start: '2011-07-31'
+    date_end: '2013-12-31'
+    description: Taught electronic engineering and researched semiconductor physics.
+
 
 design:
   columns: '2'
