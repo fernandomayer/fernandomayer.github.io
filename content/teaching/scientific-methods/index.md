@@ -10,7 +10,7 @@ links:
   name: Github
   url: https://github.com/leg-ufpr/ce091
 # slides: example
-summary: Advanced programming in R and statistical computer intensive methods
+summary: Research methods, tools for reproducible research and philosophy of science
 # tags:
 # - Deep Learning
 title: Methods in Scientific Research
