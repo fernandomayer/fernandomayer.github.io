@@ -16,7 +16,7 @@ main:
   - name: Teaching
     # url: teaching/
     url: '#teaching'
-    weight: 20
+    weight: 30
   # - name: Posts
   #   url: '#posts'
   #   weight: 20
@@ -25,10 +25,10 @@ main:
   #   weight: 30
   - name: Talks
     url: '#talks'
-    weight: 30
+    weight: 40
   - name: Publications
     url: '#publications'
-    weight: 40
+    weight: 50
   - name: Contact
     url: '#contact'
     weight: 130
