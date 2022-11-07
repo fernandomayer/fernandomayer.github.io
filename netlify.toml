@@ -1,5 +1,5 @@
 [build]
-  command = "hugo --gc --minify -b https://fernandomayer.site"
+  command = "hugo --gc --minify -b https://fernandomayer.net"
   publish = "public"
 
 [build.environment]
@@ -10,10 +10,10 @@
   HUGO_ENV = "production"
 
 [context.deploy-preview]
-  command = "hugo --gc --minify --buildFuture -b https://deploy-preview-1--fernandomayer.site"
+  command = "hugo --gc --minify --buildFuture -b https://deploy-preview-1--fernandomayer.net"
 
 [context.branch-deploy]
-  command = "hugo --gc --minify -b https://deploy-preview-1--fernandomayer.site"
+  command = "hugo --gc --minify -b https://deploy-preview-1--fernandomayer.net"
 
 [[plugins]]
   package = "netlify-plugin-hugo-cache-resources"
